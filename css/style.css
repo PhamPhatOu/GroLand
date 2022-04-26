@@ -547,7 +547,7 @@ iframe {
 /* ========================================================== */
 @import url(https://fonts.googleapis.com/css?family=BenchNine:700);
 .snip1582 {
-  background-color: #27b36a;
+  background-color: #8ad8af;
   border: none;
   color: #ffffff;
   cursor: pointer;
@@ -579,7 +579,7 @@ iframe {
 }
 
 .snip1582:before {
-  border-color: #8ad8af;
+  border-color: #27b36a;
   border-top-width: 2px;
   left: 0px;
   top: -5px;
@@ -587,14 +587,14 @@ iframe {
 
 .snip1582:after {
   border-bottom-width: 2px;
-  border-color: #8ad8af;
+  border-color: #27b36a;
   bottom: -5px;
   right: 0px;
 }
 
 .snip1582:hover,
 .snip1582.hover {
-  background-color: #8ad8af;
+  background-color: #27b36a;
   outline: none;
 }
 
